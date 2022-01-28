@@ -1,6 +1,7 @@
 # EditText 예제
 ## 설명 참고
-### <a href="https://spectacled-plastic-a9d.notion.site/EditText-cb83a3f35c17480ab62033a737cd3d6e">Notion - EditText</a>
+### [EditText.pdf](https://github.com/OSCompanies/AOS_EditText/files/7955025/EditText.pdf)
+
 
 ## 목차
 ### 1. EditText 기본 사용법
